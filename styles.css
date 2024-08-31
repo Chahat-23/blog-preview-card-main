@@ -58,6 +58,10 @@ h1 {
     font-weight: 750;
     color: hsl(0, 0%, 7%);
 }
+h1:hover {
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+}
 p {
     color: hsl(0, 0%, 42%);
     font-size: 16px;
